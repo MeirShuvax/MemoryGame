@@ -5,8 +5,8 @@ You are given sample images for the project in the public folder. Feel free to u
 ## Authors
 
 Name and email:
-Baruch Leviany & Meyir Shuvax
-Email: baruchle@edu.hac.ac.il, meyirsh@edu.hac.ac.il
+ Meyir Shuvax
+Email: meyirsh@edu.hac.ac.il
 
 ## General Information
 אלגוריתם לחישוב הניקוד:
